@@ -33,3 +33,8 @@ seaborn>=0.11.0
 
 # Optional for advanced interpretability (Integrated Gradients)
 # captum>=0.6.0
+## Installation
+
+
+git clone https://github.com/kuhamas/DAFS-Net.git
+cd DAFS-Net
