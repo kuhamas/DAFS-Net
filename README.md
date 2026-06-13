@@ -38,3 +38,4 @@ seaborn>=0.11.0
 
 git clone https://github.com/kuhamas/DAFS-Net.git
 cd DAFS-Net
+DOI: 10.5281/zenodo.20676147
